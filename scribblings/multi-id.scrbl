@@ -5,7 +5,7 @@
          scribble-enhanced]
 
 @title{Polyvalent identifiers with @racket[multi-id]}
-@author{Suzanne Soy}
+@author[@author+email["Suzanne Soy" "racket@suzanne.soy"]]
 
 @defmodule[multi-id]
 
