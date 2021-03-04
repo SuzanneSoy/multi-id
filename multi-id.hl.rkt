@@ -20,7 +20,7 @@
 @(chunks-toc-prefix
   '("(lib multi-id/multi-id.hl.rkt)"))
 
-@author[@author+email["Georges Dupéron" "georges.duperon@gmail.com"]]
+@author[@author+email["Suzanne Soy" "racket@suzanne.soy"]]
 
 This document describes the implementation of the 
 @racketmodname[multi-id] library, using literate

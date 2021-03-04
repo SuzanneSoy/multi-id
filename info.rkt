@@ -16,4 +16,4 @@
                       ("multi-id.hl.rkt" () (omit-start))))
 (define pkg-desc "Description Here")
 (define version "0.9")
-(define pkg-authors '(|Georges Dupéron|))
+(define pkg-authors '(|Suzanne Soy|))

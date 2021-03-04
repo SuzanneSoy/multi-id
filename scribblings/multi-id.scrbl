@@ -5,7 +5,7 @@
          scribble-enhanced]
 
 @title{Polyvalent identifiers with @racket[multi-id]}
-@author{Georges Dupéron}
+@author{Suzanne Soy}
 
 @defmodule[multi-id]
 
