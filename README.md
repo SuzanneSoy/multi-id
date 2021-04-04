@@ -1,5 +1,5 @@
-[![Build Status,](https://img.shields.io/travis/jsmaniac/multi-id/master.svg)](https://travis-ci.org/jsmaniac/multi-id)
-[![Coverage Status,](https://img.shields.io/codecov/c/github/jsmaniac/multi-id/master.svg)](https://codecov.io/gh/jsmaniac/multi-id)
+[![Build Status,](https://img.shields.io/travis/jsmaniac/multi-id/main.svg)](https://travis-ci.org/jsmaniac/multi-id)
+[![Coverage Status,](https://img.shields.io/codecov/c/github/jsmaniac/multi-id/main.svg)](https://codecov.io/gh/jsmaniac/multi-id)
 [![Build Stats,](https://img.shields.io/badge/build-stats-blue.svg)](http://jsmaniac.github.io/travis-stats/#jsmaniac/multi-id)
 [![Online Documentation,](https://img.shields.io/badge/docs-online-blue.svg)](http://docs.racket-lang.org/multi-id/)
 [![Maintained as of 2018,](https://img.shields.io/maintenance/yes/2018.svg)](https://github.com/jsmaniac/multi-id/issues)
